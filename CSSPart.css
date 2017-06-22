@@ -1,0 +1,127 @@
+.navigation {
+  /*background-color:#565656;*/
+  background-image: url("http://papers.co/wallpaper/papers.co-vg40-polygon-dark-bw-art-graphic-pattern-34-iphone6-plus-wallpaper.jpg");
+  padding: 10px 10px
+}
+.btn{
+border: .2em solid #eee;
+  background-color: #1c1c1c;
+  color: #fff;
+/*text-decoration: none;*/
+  font-size: 18px;
+  padding: 8px 30px;
+  text-decoration: none;/*
+  display: inline-block;*/
+  position: relative;
+  top: 270px;
+  height: 128px
+  text-align: center;
+  left: 46%;
+}
+.int:hover .drpdwn {
+    display: block;
+}
+.drpdwn{
+    display: none;
+    background-color: #4c4c4c;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+.btn2{
+  background-color: #1c1c1c;
+  border: .2em solid #eee;
+  color: #fff;
+/*text-decoration: none;*/
+  font-size: 18px;
+  padding: 8px 30px;
+  text-decoration: none;/*
+  display: inline-block;*/
+  position: relative;
+  top: 75px;
+  height: 128px;
+  text-align: center;
+  left: 6%;
+}
+.title {
+  background-image: url("maxresdefault.jpg");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+
+}
+.titlet{
+
+  background-image: url("http://more-sky.com/data/out/8/IMG_256828.png");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+
+
+}
+a#btnp:hover{
+  background: #cc002c;
+  color: #000;
+}
+a#btnr:hover{
+  background: #3e468f;
+  color: #000;
+}
+a#btnm:hover{
+  background: #f90;
+  color: #000;
+}
+a#btnn:hover{
+  background: #ac2;
+  color: #000;
+}
+a#btno:hover{
+  background: #ef0000;
+  color: #000;
+}
+a#btnj:hover{
+  background: #5500ef;
+  color: #000;
+}
+
+a.btn:hover{
+  background: #ffa800;
+  color: #000;
+}
+#htbr{
+  text-decoration: none;
+  color: #fff;
+}
+a#htbr:hover{
+  background: #ababab;
+  color: #fff;
+  border-radius: 1px;
+}
+.bs{
+  background-image: url("http://more-sky.com/data/out/8/IMG_256828.png");
+  background-size: cover;
+  background-position: bottom center;
+  height: 500px;
+  width: 100%;
+
+}
+.int{
+  float: left;
+}
+/*.sha{
+  background-color: RGBa (20, 20, 20, .05);
+  background-size: cover;
+  background-position: bottom center;
+  height: 500px;
+  width: 100%;
+}*/
+* {
+  font-family: 'Oswald', sans-serif;
+  color: #fff
+}
+
+
+
+
